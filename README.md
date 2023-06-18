@@ -1,5 +1,5 @@
 # Basic_statistics-1
-I have covered all the below qetions and many more in the above Docs.
+I have covered all the below quetions and many more in the above Docs.
 Identify the Data type for the Following:
 Calculate Skewness, Kurtosis & draw inferences on the following data Cars speed and distance  
 Draw inferences about the following boxplot & histogram
